@@ -6,8 +6,6 @@ The style is rebooted through [normalize.css](https://necolas.github.io/normaliz
 
 See the [demo](https://piazzai.github.io/hacked-jekyll) to check the end result.
 
-![](https://github.com/piazzai/hacked-jekyll/blob/master/screenshot.png)
-
 ## Installation
 
 The theme can be installed as usual by cloning this repository and editing the files. However, it is far more convenient to install it as a gem, in which case all the files you do not want or need to customize remain hidden from view, but will still be read and processed during build.
